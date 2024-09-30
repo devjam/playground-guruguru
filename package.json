@@ -18,7 +18,7 @@
     "update:meta": "tsx ./scripts/meta.ts update"
   },
   "dependencies": {
-    "@astrojs/check": "0.8.3",
+    "@astrojs/check": "0.9.3",
     "@astrojs/mdx": "3.1.3",
     "@astrojs/react": "3.6.0",
     "@astrojs/sitemap": "3.1.6",
